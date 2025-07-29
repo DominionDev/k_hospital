@@ -1,0 +1,1232 @@
+{
+    "Gesichtskuschler": {
+        "raum": "Area51-Labor",
+        "sekunden": 18000,
+        "level": 36
+    },
+    "Grünschimmersyndrom": {
+        "raum": "Area51-Labor",
+        "sekunden": 21600,
+        "level": 32
+    },
+    "Jogaismus": {
+        "raum": "Area51-Labor",
+        "sekunden": 28800,
+        "level": 40
+    },
+    "Spitzohren": {
+        "raum": "Area51-Labor",
+        "sekunden": 10800,
+        "level": 38
+    },
+    "Stielaugen": {
+        "raum": "Area51-Labor",
+        "sekunden": 9600,
+        "level": 33
+    },
+    "Brecheritis": {
+        "raum": "Behandlungsraum",
+        "sekunden": 600,
+        "level": 1
+    },
+    "Grippeimpfung": {
+        "raum": "Behandlungsraum",
+        "sekunden": 5400,
+        "level": 33
+    },
+    "Hippiephilie": {
+        "raum": "Behandlungsraum",
+        "sekunden": 21600,
+        "level": 37
+    },
+    "Nasenflügelakne": {
+        "raum": "Behandlungsraum",
+        "sekunden": 600,
+        "level": 1
+    },
+    "Schädelbrummen": {
+        "raum": "Behandlungsraum",
+        "sekunden": 9600,
+        "level": 4
+    },
+    "Schürfwunde": {
+        "raum": "Behandlungsraum",
+        "sekunden": 1800,
+        "level": 3
+    },
+    "Segelohrentzündung": {
+        "raum": "Behandlungsraum",
+        "sekunden": 7200,
+        "level": 6
+    },
+    "Zwergfellentzündung": {
+        "raum": "Behandlungsraum",
+        "sekunden": 9600,
+        "level": 5
+    },
+    "(Ohr-)Schmalzlocke": {
+        "raum": "Dunkelkammer",
+        "sekunden": 25200,
+        "level": 37
+    },
+    "Bad-Hair-Day-Syndrom": {
+        "raum": "Dunkelkammer",
+        "sekunden": 18600,
+        "level": 25
+    },
+    "Flederhöhlenkopf": {
+        "raum": "Dunkelkammer",
+        "sekunden": 10800,
+        "level": 19
+    },
+    "Hitzewallung": {
+        "raum": "Dunkelkammer",
+        "sekunden": 43200,
+        "level": 39
+    },
+    "Knoblauchfahne": {
+        "raum": "Dunkelkammer",
+        "sekunden": 15720,
+        "level": 30
+    },
+    "Koffeinhypersensibilität": {
+        "raum": "Dunkelkammer",
+        "sekunden": 6000,
+        "level": 16
+    },
+    "Lykantropitis": {
+        "raum": "Dunkelkammer",
+        "sekunden": 21600,
+        "level": 19
+    },
+    "Schlaflosigkeit": {
+        "raum": "Dunkelkammer",
+        "sekunden": 6000,
+        "level": 16
+    },
+    "Schnarcheritis": {
+        "raum": "Dunkelkammer",
+        "sekunden": 7200,
+        "level": 23
+    },
+    "Solarplexusdämmerung": {
+        "raum": "Dunkelkammer",
+        "sekunden": 14400,
+        "level": 65
+    },
+    "Sturmfrisur": {
+        "raum": "Dunkelkammer",
+        "sekunden": 28800,
+        "level": 27
+    },
+    "Dauermüdigkeit": {
+        "raum": "EKG / EEG",
+        "sekunden": 3600,
+        "level": 23
+    },
+    "Gehirndurchzug": {
+        "raum": "EKG / EEG",
+        "sekunden": 12000,
+        "level": 29
+    },
+    "Herzklappenklappern": {
+        "raum": "EKG / EEG",
+        "sekunden": 9000,
+        "level": 11
+    },
+    "Herzschmerzgeschnulze": {
+        "raum": "EKG / EEG",
+        "sekunden": 10800,
+        "level": 11
+    },
+    "Kampfadern": {
+        "raum": "EKG / EEG",
+        "sekunden": 57600,
+        "level": 43
+    },
+    "Koffeinmangel": {
+        "raum": "EKG / EEG",
+        "sekunden": 5400,
+        "level": 47
+    },
+    "Ringfingerschwur": {
+        "raum": "EKG / EEG",
+        "sekunden": 21600,
+        "level": 34
+    },
+    "Sauklaue": {
+        "raum": "EKG / EEG",
+        "sekunden": 13500,
+        "level": 25
+    },
+    "Silberblick": {
+        "raum": "EKG / EEG",
+        "sekunden": 8400,
+        "level": 20
+    },
+    "Babybauch": {
+        "raum": "Entbindungsstation",
+        "sekunden": 19800,
+        "level": 50
+    },
+    "Zeitzonenkind": {
+        "raum": "Frühchenstation",
+        "sekunden": 17700,
+        "level": 53
+    },
+    "Arbeitsallergie": {
+        "raum": "Gummizelle",
+        "sekunden": 1800,
+        "level": 18
+    },
+    "Brüllfroschrülpsen": {
+        "raum": "Gummizelle",
+        "sekunden": 18000,
+        "level": 33
+    },
+    "Marserianerimpfung": {
+        "raum": "Gummizelle",
+        "sekunden": 7500,
+        "level": 18
+    },
+    "Milzbierüberdruss": {
+        "raum": "Gummizelle",
+        "sekunden": 21600,
+        "level": 59
+    },
+    "Peitschenfloh": {
+        "raum": "Gummizelle",
+        "sekunden": 14400,
+        "level": 53
+    },
+    "Rundrücken": {
+        "raum": "Gummizelle",
+        "sekunden": 43200,
+        "level": 52
+    },
+    "Seekrankheit": {
+        "raum": "Gummizelle",
+        "sekunden": 36000,
+        "level": 56
+    },
+    "Vampitis": {
+        "raum": "Gummizelle",
+        "sekunden": 21600,
+        "level": 21
+    },
+    "viereckige Augen": {
+        "raum": "Gummizelle",
+        "sekunden": 14400,
+        "level": 24
+    },
+    "Intensiv-Brecheritis": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 17400,
+        "level": 60
+    },
+    "Intensiv-Grippeimpfung": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 26400,
+        "level": 68
+    },
+    "Intensiv-Nasenflügelakne": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 22800,
+        "level": 61
+    },
+    "Intensiv-Schädelbrummen": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 20700,
+        "level": 63
+    },
+    "Intensiv-Schürfwunde": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 27000,
+        "level": 62
+    },
+    "Intensiv-Segelohrentzündung": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 34200,
+        "level": 65
+    },
+    "Intensiv-Zwergfellentzündung": {
+        "raum": "Intensiv-Behandlungsraum",
+        "sekunden": 18600,
+        "level": 64
+    },
+    "Intensiv-(Ohr-)Schmalzlocke": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 34200,
+        "level": 40
+    },
+    "Intensiv-Bad-Hair-Day-Syndrom": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 26100,
+        "level": 29
+    },
+    "Intensiv-Flederhöhlenkopf": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 16200,
+        "level": 23
+    },
+    "Intensiv-Hitzewallung": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 43200,
+        "level": 45
+    },
+    "Intensiv-Knoblauchfahne": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 23580,
+        "level": 33
+    },
+    "Intensiv-Koffeinhypersensibilität": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 9000,
+        "level": 20
+    },
+    "Intensiv-Schlaflosigkeit": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 9000,
+        "level": 20
+    },
+    "Intensiv-Schnarcheritis": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 10800,
+        "level": 27
+    },
+    "Intensiv-Solarplexusdämmerung": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 21600,
+        "level": 67
+    },
+    "Intensiv-Sturmfrisur": {
+        "raum": "Intensiv-Dunkelkammer",
+        "sekunden": 39600,
+        "level": 31
+    },
+    "Intensiv-Dauermüdigkeit": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 18900,
+        "level": 53
+    },
+    "Intensiv-Gehirndurchzug": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 27000,
+        "level": 58
+    },
+    "Intensiv-Herzklappenklappern": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 13500,
+        "level": 45
+    },
+    "Intensiv-Herzschmerzgeschnulze": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 16200,
+        "level": 45
+    },
+    "Intensiv-Kampfadern": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 36900,
+        "level": 65
+    },
+    "Intensiv-Koffeinmangel": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 24300,
+        "level": 68
+    },
+    "Intensiv-Sauklaue": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 23400,
+        "level": 55
+    },
+    "Intensiv-Silberblick": {
+        "raum": "Intensiv-EKG",
+        "sekunden": 17100,
+        "level": 49
+    },
+    "Intensiv-Arbeitsallergie": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 2700,
+        "level": 22
+    },
+    "Intensiv-Brüllfroschrülpsen": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 27000,
+        "level": 36
+    },
+    "Intensiv-Marserianerimpfung": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 10800,
+        "level": 22
+    },
+    "Intensiv-Milzbierüberdruss": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 28800,
+        "level": 62
+    },
+    "Intensiv-Peitschenfloh": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 21600,
+        "level": 56
+    },
+    "Intensiv-Rundrücken": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 43200,
+        "level": 55
+    },
+    "Intensiv-Seekrankheit": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 36000,
+        "level": 59
+    },
+    "Intensiv-viereckige Augen": {
+        "raum": "Intensiv-Gummizelle",
+        "sekunden": 18000,
+        "level": 27
+    },
+    "Intensiv-Bierbauch": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 26400,
+        "level": 65
+    },
+    "Intensiv-Currywurstjeper": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 7200,
+        "level": 63
+    },
+    "Intensiv-Feuchte Aussprache": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 28800,
+        "level": 68
+    },
+    "Intensiv-Fleuchusten": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 5400,
+        "level": 61
+    },
+    "Intensiv-Innenohr voller Hammer, Amboss und Steigbügel": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 36000,
+        "level": 55
+    },
+    "Intensiv-Leberkäserkältung": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 18000,
+        "level": 70
+    },
+    "Intensiv-Pobackenflattern": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 12600,
+        "level": 66
+    },
+    "Intensiv-Rosengürtel": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 43200,
+        "level": 57
+    },
+    "Intensiv-Tomaten auf den Augen": {
+        "raum": "Intensiv-Nuklearmedizin",
+        "sekunden": 17100,
+        "level": 62
+    },
+    "Intensiv-Aufgerollte Fußnägel": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 12150,
+        "level": 35
+    },
+    "Intensiv-Brett vorm Kopf": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 20400,
+        "level": 44
+    },
+    "Intensiv-Knorpelverknautschung": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 15525,
+        "level": 35
+    },
+    "Intensiv-Lampenfieber": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 25200,
+        "level": 65
+    },
+    "Intensiv-Muskelkätzchen": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 43200,
+        "level": 70
+    },
+    "Intensiv-Nagelbettwackeln": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 15750,
+        "level": 42
+    },
+    "Intensiv-Pferdefuß": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 20400,
+        "level": 55
+    },
+    "Intensiv-Salzfässchen": {
+        "raum": "Intensiv-Orthopädie",
+        "sekunden": 32400,
+        "level": 67
+    },
+    "Intensiv-Faulenzia": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 12600,
+        "level": 50
+    },
+    "Intensiv-Heimweh": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 21600,
+        "level": 58
+    },
+    "Intensiv-Holzkopf": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 18000,
+        "level": 68
+    },
+    "Intensiv-Mumpitzimpfung": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 15300,
+        "level": 65
+    },
+    "Intensiv-Rapunzelsyndrom": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 16200,
+        "level": 62
+    },
+    "Intensiv-Rotes Kniekelchen": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 32400,
+        "level": 70
+    },
+    "Intensiv-Rummelplatzkrankheit": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 14400,
+        "level": 50
+    },
+    "Intensiv-Wasserallergie": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 16200,
+        "level": 52
+    },
+    "Intensiv-Würfelhusten": {
+        "raum": "Intensiv-Psychotherapie",
+        "sekunden": 43200,
+        "level": 63
+    },
+    "Intensiv-Einhornhautentzündung": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 31500,
+        "level": 67
+    },
+    "Intensiv-Feuermal": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 16200,
+        "level": 34
+    },
+    "Intensiv-Haarbruch": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 24300,
+        "level": 23
+    },
+    "Intensiv-Lungenseifenblasen": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 18000,
+        "level": 64
+    },
+    "Intensiv-Rot-Grün-Fieber": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 25200,
+        "level": 29
+    },
+    "Intensiv-Tränensäcke": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 23400,
+        "level": 42
+    },
+    "Intensiv-Venenverwesung": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 23400,
+        "level": 33
+    },
+    "Intensiv-Zweckenbefall": {
+        "raum": "Intensiv-Tomographie",
+        "sekunden": 28800,
+        "level": 32
+    },
+    "Intensiv-Dauerschnupfen": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 21600,
+        "level": 50
+    },
+    "Intensiv-Drehwurm": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 10800,
+        "level": 41
+    },
+    "Intensiv-Frosch im Hals": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 19800,
+        "level": 40
+    },
+    "Intensiv-Fußfliegenpilz": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 21600,
+        "level": 66
+    },
+    "Intensiv-Glatzitis": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 32400,
+        "level": 61
+    },
+    "Intensiv-Hummeln im Hintern": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 21600,
+        "level": 51
+    },
+    "Intensiv-Lippenblütlerwarze": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 23400,
+        "level": 70
+    },
+    "Intensiv-Ohrenschneckenauswanderung": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 25200,
+        "level": 54
+    },
+    "Intensiv-Sonnenbankbrand": {
+        "raum": "Intensiv-Tropenmedizin",
+        "sekunden": 32400,
+        "level": 40
+    },
+    "Intensiv-Dickdarmdiätsyndrom": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 27000,
+        "level": 30
+    },
+    "Intensiv-Katzenjammern": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 18900,
+        "level": 62
+    },
+    "Intensiv-Kiefernzapfenverrenkung": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 32400,
+        "level": 58
+    },
+    "Intensiv-Spülwurm": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 19800,
+        "level": 30
+    },
+    "Intensiv-Stumpfe Zähne": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 21600,
+        "level": 33
+    },
+    "Intensiv-Zahnschmerzen": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 16200,
+        "level": 32
+    },
+    "Intensiv-Zahnstein": {
+        "raum": "Intensiv-Zahnmedizin",
+        "sekunden": 20250,
+        "level": 49
+    },
+    "Querleger": {
+        "raum": "Kaiserschnittzentrum",
+        "sekunden": 5400,
+        "level": 54
+    },
+    "Wampenneid": {
+        "raum": "Künstliche Befruchtung",
+        "sekunden": 6000,
+        "level": 51
+    },
+    "Dicker Kopf": {
+        "raum": "Laboratorium",
+        "sekunden": 12600,
+        "level": 19
+    },
+    "Frostbeulen": {
+        "raum": "Laboratorium",
+        "sekunden": 12900,
+        "level": 26
+    },
+    "Kopflausbuben": {
+        "raum": "Laboratorium",
+        "sekunden": 50400,
+        "level": 41
+    },
+    "Kussmundatem": {
+        "raum": "Laboratorium",
+        "sekunden": 18000,
+        "level": 25
+    },
+    "Nierenkiesel": {
+        "raum": "Laboratorium",
+        "sekunden": 12600,
+        "level": 13
+    },
+    "Schleimbeutelüberproduktion": {
+        "raum": "Laboratorium",
+        "sekunden": 25200,
+        "level": 45
+    },
+    "Stinkebefall": {
+        "raum": "Laboratorium",
+        "sekunden": 28800,
+        "level": 44
+    },
+    "Stinkekäsefuß": {
+        "raum": "Laboratorium",
+        "sekunden": 12000,
+        "level": 14
+    },
+    "Tollwutfiffi": {
+        "raum": "Laboratorium",
+        "sekunden": 21600,
+        "level": 40
+    },
+    "Zwirbeldrüsenverzwirbelung": {
+        "raum": "Laboratorium",
+        "sekunden": 18000,
+        "level": 68
+    },
+    "Aphantasie": {
+        "raum": "Neurologie",
+        "sekunden": 30000,
+        "level": 67
+    },
+    "Apraxie": {
+        "raum": "Neurologie",
+        "sekunden": 32400,
+        "level": 63
+    },
+    "Chorea": {
+        "raum": "Neurologie",
+        "sekunden": 21000,
+        "level": 45
+    },
+    "Cluster-Kopfschmerz": {
+        "raum": "Neurologie",
+        "sekunden": 81000,
+        "level": 59
+    },
+    "Diplopie": {
+        "raum": "Neurologie",
+        "sekunden": 40500,
+        "level": 56
+    },
+    "Locked-In Syndrom": {
+        "raum": "Neurologie",
+        "sekunden": 21600,
+        "level": 51
+    },
+    "Mikropsie": {
+        "raum": "Neurologie",
+        "sekunden": 24000,
+        "level": 46
+    },
+    "Photischer Niesreflex": {
+        "raum": "Neurologie",
+        "sekunden": 42300,
+        "level": 69
+    },
+    "Stiff-Man-Syndrom": {
+        "raum": "Neurologie",
+        "sekunden": 34200,
+        "level": 41
+    },
+    "Stottern": {
+        "raum": "Neurologie",
+        "sekunden": 36000,
+        "level": 54
+    },
+    "Trichotillomanie": {
+        "raum": "Neurologie",
+        "sekunden": 51000,
+        "level": 41
+    },
+    "Bierbauch": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 26400,
+        "level": 40
+    },
+    "Currywurstjieper": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 7200,
+        "level": 38
+    },
+    "Feuchte Aussprache": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 28800,
+        "level": 46
+    },
+    "Fleuchhusten": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 5400,
+        "level": 31
+    },
+    "Holopocken": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 21600,
+        "level": 28
+    },
+    "Innenohr voller Hammer, Amboss und Steigbügel": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 86400,
+        "level": 27
+    },
+    "Leberkäserkältung": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 18000,
+        "level": 55
+    },
+    "Pobackenflattern": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 12600,
+        "level": 45
+    },
+    "Rosengürtel": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 43200,
+        "level": 27
+    },
+    "Tomaten auf den Augen": {
+        "raum": "Nuklearmedizin",
+        "sekunden": 17100,
+        "level": 36
+    },
+    "Darmvergilbung": {
+        "raum": "Operationssaal",
+        "sekunden": 17100,
+        "level": 23
+    },
+    "Fingernagelbruch": {
+        "raum": "Operationssaal",
+        "sekunden": 16200,
+        "level": 43
+    },
+    "Flatterndes Nabelpiercing": {
+        "raum": "Operationssaal",
+        "sekunden": 14400,
+        "level": 51
+    },
+    "Furunkelfunkeln": {
+        "raum": "Operationssaal",
+        "sekunden": 14400,
+        "level": 12
+    },
+    "Schlitzohr": {
+        "raum": "Operationssaal",
+        "sekunden": 10200,
+        "level": 26
+    },
+    "Tomatenmarkgefüllte Knochen": {
+        "raum": "Operationssaal",
+        "sekunden": 28800,
+        "level": 66
+    },
+    "Zungenverknotung": {
+        "raum": "Operationssaal",
+        "sekunden": 10800,
+        "level": 12
+    },
+    "Zwei linke Hände": {
+        "raum": "Operationssaal",
+        "sekunden": 43200,
+        "level": 46
+    },
+    "Aufgerollte Fußnägel": {
+        "raum": "Orthopädie",
+        "sekunden": 9000,
+        "level": 8
+    },
+    "Brett vorm Kopf": {
+        "raum": "Orthopädie",
+        "sekunden": 14400,
+        "level": 17
+    },
+    "Knorpelverknautschung": {
+        "raum": "Orthopädie",
+        "sekunden": 9000,
+        "level": 8
+    },
+    "Lampenfieber": {
+        "raum": "Orthopädie",
+        "sekunden": 18000,
+        "level": 38
+    },
+    "Muskelkätzchen": {
+        "raum": "Orthopädie",
+        "sekunden": 43200,
+        "level": 62
+    },
+    "Nagelbettwackeln": {
+        "raum": "Orthopädie",
+        "sekunden": 9000,
+        "level": 15
+    },
+    "Pferdefuß": {
+        "raum": "Orthopädie",
+        "sekunden": 14400,
+        "level": 28
+    },
+    "Salzfässchen": {
+        "raum": "Orthopädie",
+        "sekunden": 28800,
+        "level": 58
+    },
+    "Zombiefizitis": {
+        "raum": "Orthopädie",
+        "sekunden": 21600,
+        "level": 36
+    },
+    "Hasenzähne": {
+        "raum": "Osterraum",
+        "sekunden": 43200,
+        "level": 90
+    },
+    "Löffelohren": {
+        "raum": "Osterraum",
+        "sekunden": 21600,
+        "level": 90
+    },
+    "Goldfieber": {
+        "raum": "Paddy-Raum",
+        "sekunden": 43200,
+        "level": 90
+    },
+    "Verfolgungswahn": {
+        "raum": "Paddy-Raum",
+        "sekunden": 21600,
+        "level": 90
+    },
+    "Emosyndrom": {
+        "raum": "Psychotherapie",
+        "sekunden": 21600,
+        "level": 20
+    },
+    "Faulenzia": {
+        "raum": "Psychotherapie",
+        "sekunden": 8400,
+        "level": 10
+    },
+    "Heimweh": {
+        "raum": "Psychotherapie",
+        "sekunden": 14400,
+        "level": 24
+    },
+    "Holzkopf": {
+        "raum": "Psychotherapie",
+        "sekunden": 7200,
+        "level": 44
+    },
+    "Mumpitzimpfung": {
+        "raum": "Psychotherapie",
+        "sekunden": 5400,
+        "level": 41
+    },
+    "Rapunzelsyndrom": {
+        "raum": "Psychotherapie",
+        "sekunden": 7200,
+        "level": 26
+    },
+    "Rotes Kniekehlchen": {
+        "raum": "Psychotherapie",
+        "sekunden": 21600,
+        "level": 49
+    },
+    "Rummelplatzkrankheit": {
+        "raum": "Psychotherapie",
+        "sekunden": 9600,
+        "level": 10
+    },
+    "Wasserallergie": {
+        "raum": "Psychotherapie",
+        "sekunden": 10800,
+        "level": 13
+    },
+    "Würfelhusten": {
+        "raum": "Psychotherapie",
+        "sekunden": 28800,
+        "level": 39
+    },
+    "Akkuschrauberpunkturlöcher": {
+        "raum": "Röntgenraum",
+        "sekunden": 27000,
+        "level": 63
+    },
+    "Fränkisches Wurzelfieber": {
+        "raum": "Röntgenraum",
+        "sekunden": 5400,
+        "level": 6
+    },
+    "Gebrochener Arm": {
+        "raum": "Röntgenraum",
+        "sekunden": 4800,
+        "level": 2
+    },
+    "Gebrochenes Bein": {
+        "raum": "Röntgenraum",
+        "sekunden": 9600,
+        "level": 4
+    },
+    "Schieldrüsensyndrom": {
+        "raum": "Röntgenraum",
+        "sekunden": 43200,
+        "level": 60
+    },
+    "Hexenteint": {
+        "raum": "Schauder-Raum",
+        "sekunden": 43200,
+        "level": 90
+    },
+    "Vampirismus": {
+        "raum": "Schauder-Raum",
+        "sekunden": 21600,
+        "level": 90
+    },
+    "Explodierender Kopf Syndrom": {
+        "raum": "Schlaftherapie",
+        "sekunden": 25200,
+        "level": 69
+    },
+    "Nykturie": {
+        "raum": "Schlaftherapie",
+        "sekunden": 21600,
+        "level": 64
+    },
+    "Pavian Nocturnus": {
+        "raum": "Schlaftherapie",
+        "sekunden": 21600,
+        "level": 45
+    },
+    "Ruhelose Beine": {
+        "raum": "Schlaftherapie",
+        "sekunden": 39600,
+        "level": 57
+    },
+    "Schlafapnoe": {
+        "raum": "Schlaftherapie",
+        "sekunden": 14400,
+        "level": 48
+    },
+    "Schlafparalyse": {
+        "raum": "Schlaftherapie",
+        "sekunden": 64800,
+        "level": 43
+    },
+    "Schlafsucht": {
+        "raum": "Schlaftherapie",
+        "sekunden": 32400,
+        "level": 59
+    },
+    "Schlaftrunkenheit": {
+        "raum": "Schlaftherapie",
+        "sekunden": 18000,
+        "level": 35
+    },
+    "Schlafverwandeln": {
+        "raum": "Schlaftherapie",
+        "sekunden": 25200,
+        "level": 35
+    },
+    "Wackeliges Becken": {
+        "raum": "Schwangerschafts-Gymnastik",
+        "sekunden": 5700,
+        "level": 56
+    },
+    "Bleierne-Murmel": {
+        "raum": "Sonografie",
+        "sekunden": 9000,
+        "level": 55
+    },
+    "Einhornhautentzündung": {
+        "raum": "Tomographie",
+        "sekunden": 23400,
+        "level": 67
+    },
+    "Feuermal": {
+        "raum": "Tomographie",
+        "sekunden": 14400,
+        "level": 34
+    },
+    "Haarbruch": {
+        "raum": "Tomographie",
+        "sekunden": 18600,
+        "level": 19
+    },
+    "Lungenseifenblasen": {
+        "raum": "Tomographie",
+        "sekunden": 14400,
+        "level": 64
+    },
+    "Rot-Grün-Fieber": {
+        "raum": "Tomographie",
+        "sekunden": 18000,
+        "level": 19
+    },
+    "Tränensäcke": {
+        "raum": "Tomographie",
+        "sekunden": 18000,
+        "level": 42
+    },
+    "Venenverwesung": {
+        "raum": "Tomographie",
+        "sekunden": 18000,
+        "level": 33
+    },
+    "Zweckenbefall": {
+        "raum": "Tomographie",
+        "sekunden": 21600,
+        "level": 22
+    },
+    "Dauerschnupfen": {
+        "raum": "Tropenmedizin",
+        "sekunden": 14400,
+        "level": 31
+    },
+    "Drehwurm": {
+        "raum": "Tropenmedizin",
+        "sekunden": 7200,
+        "level": 22
+    },
+    "Frosch im Hals": {
+        "raum": "Tropenmedizin",
+        "sekunden": 13200,
+        "level": 21
+    },
+    "Fußfliegenpilz": {
+        "raum": "Tropenmedizin",
+        "sekunden": 14400,
+        "level": 47
+    },
+    "Glatzitis": {
+        "raum": "Tropenmedizin",
+        "sekunden": 28800,
+        "level": 42
+    },
+    "Hummeln im Hintern": {
+        "raum": "Tropenmedizin",
+        "sekunden": 14400,
+        "level": 32
+    },
+    "Lippenblütlerwarze": {
+        "raum": "Tropenmedizin",
+        "sekunden": 15600,
+        "level": 50
+    },
+    "Ohrschneckenauswanderung": {
+        "raum": "Tropenmedizin",
+        "sekunden": 21600,
+        "level": 35
+    },
+    "Sonnenbankbrand": {
+        "raum": "Tropenmedizin",
+        "sekunden": 57600,
+        "level": 21
+    },
+    "Wurzelekzem": {
+        "raum": "Tropenmedizin",
+        "sekunden": 21600,
+        "level": 48
+    },
+    "Barthaarverzwirbelung": {
+        "raum": "Ultraschall",
+        "sekunden": 12000,
+        "level": 24
+    },
+    "Eierkopf": {
+        "raum": "Ultraschall",
+        "sekunden": 10800,
+        "level": 9
+    },
+    "Galliensteine": {
+        "raum": "Ultraschall",
+        "sekunden": 6300,
+        "level": 7
+    },
+    "gestörtes Wurzelchakra": {
+        "raum": "Ultraschall",
+        "sekunden": 28800,
+        "level": 69
+    },
+    "Gurgelhupf": {
+        "raum": "Ultraschall",
+        "sekunden": 64800,
+        "level": 54
+    },
+    "Luftpocken": {
+        "raum": "Ultraschall",
+        "sekunden": 8400,
+        "level": 7
+    },
+    "Milchbart": {
+        "raum": "Ultraschall",
+        "sekunden": 17100,
+        "level": 16
+    },
+    "Wechselbalgjahre": {
+        "raum": "Ultraschall",
+        "sekunden": 7200,
+        "level": 6
+    },
+    "Schnorchelkind": {
+        "raum": "Wassergeburten",
+        "sekunden": 18000,
+        "level": 52
+    },
+    "Kugelgelenk": {
+        "raum": "Weihnachtsraum",
+        "sekunden": 21600,
+        "level": 90
+    },
+    "Schneephobie": {
+        "raum": "Weihnachtsraum",
+        "sekunden": 43200,
+        "level": 90
+    },
+    "Dickdarmdiätsyndrom": {
+        "raum": "Zahnmedizin",
+        "sekunden": 21600,
+        "level": 29
+    },
+    "Katzenjammern": {
+        "raum": "Zahnmedizin",
+        "sekunden": 12600,
+        "level": 61
+    },
+    "Kiefernzapfenverrenkung": {
+        "raum": "Zahnmedizin",
+        "sekunden": 21600,
+        "level": 57
+    },
+    "Spülwurm": {
+        "raum": "Zahnmedizin",
+        "sekunden": 13200,
+        "level": 29
+    },
+    "Strohkopf": {
+        "raum": "Zahnmedizin",
+        "sekunden": 21600,
+        "level": 30
+    },
+    "Stumpfe Zähne": {
+        "raum": "Zahnmedizin",
+        "sekunden": 14400,
+        "level": 32
+    },
+    "Zahnschmerzen": {
+        "raum": "Zahnmedizin",
+        "sekunden": 10800,
+        "level": 31
+    },
+    "Zahnstein": {
+        "raum": "Zahnmedizin",
+        "sekunden": 13500,
+        "level": 48
+    }
+}
